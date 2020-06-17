@@ -38,6 +38,9 @@ The brightness of the LED may dim briefly when the sensor takes a new reading.
 | GND | GND |
 | TX | D5|
 | RX | D6 |
+
+![Wiring Diagram](https://i.imgur.com/zDaUwN7.png)
+
 # Printing 3D Models
 **base.stl** - 100% infill, non-transparent or dark material.
 **basebottom.stl** - 100% infill, any material.
