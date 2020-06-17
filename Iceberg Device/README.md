@@ -1,4 +1,6 @@
+
 # Iceberg
+![Iceberg](https://i.imgur.com/Mgnwihm.jpg)
 The Iceberg consists of an Arduino Nano micro-controller, Co2 sensor and RGB LED. The enclosure changes colour depending on the air quality. 
 
 ## Hardware Requirements
