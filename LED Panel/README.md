@@ -57,11 +57,14 @@ Your display will have two HUB08 connectors, be sure to use the INPUT side.
 | RX | D9 |
 
 ![Fritzing Diagram](https://i.imgur.com/0F1GW4k.png)
+
 If you're running out of I/O on the Arduino you can connect the PWM pin on the sensor to D10 and use the PWM device sketch with the same results. This frees up D9 as you are no longer using a serial connection to communicate. 
 
 ![Messy Wires!](https://i.imgur.com/VrWyeAJ.jpg)
+
 The wiring for this display can look a little messy if you're only using jumper wires. 
 
 ![Tidy wires](https://i.imgur.com/5BPGpyX.jpg)
+
 However, if you are handy with a soldering iron and have a spare breadboard you can tidy things up pretty quickly once you're happy with the circuit. 
 
